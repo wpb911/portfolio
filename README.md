@@ -2,7 +2,7 @@
 This is a project based on the Bootstrap CSS framework.  The objective is to crate a mobile responsive portfolio site that includes a navebar, responsive layout, responsive images, and minimizes media queries. This implementation did not use media queries at all due to the responsive design principals of Bootstrap.  Accessibility is included where applicable and all code is semantic. 
 
 ## Enhancements
-The form was developed with bootstrap CSS also and will be further developed as backend services become availalbe.
+all HTML in this project was validated successfully at https://validator.w3.org/nu/. The form was writtend with bootstrap CSS also and will be further developed as backend services become available.
 
 ## Usage 
 
