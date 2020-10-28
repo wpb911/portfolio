@@ -8,7 +8,7 @@ All HTML in this project was validated successfully at https://validator.w3.org/
 
 When viewing the page a sample rendering of the main page is [portfolio screenshot.](portfolio.png)
 
-To view the actual page in realtime go to [portfolio webpage](https://wpb911.github.io/portfolio/)
+To view the actual page in realtime go to [portfolio webpage.](https://wpb911.github.io/portfolio/)
 
 ## Contributing
 Pull requests are welcome. Feedback is appreciated.
